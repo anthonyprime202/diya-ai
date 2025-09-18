@@ -270,8 +270,8 @@
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             // --- CONFIGURATION ---
-            const IS_DEV = true; // Set to false for production
-            const API_BASE_URL = IS_DEV ? 'http://localhost:8000' : 'YOUR_PRODUCTION_URL_HERE';
+            const IS_DEV = false; // Set to false for production
+            const API_BASE_URL = IS_DEV ? 'http://localhost:8000' : 'https://diya-ai.onrender.com';
             // ---------------------
 
             const chatMessages = document.getElementById('chat-messages');
