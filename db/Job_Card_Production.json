@@ -1,0 +1,35 @@
+[
+  {
+    "Timestamp": "9/13/2025 14:15:35",
+    "Do Number": "DO-123",
+    "Party Name": "Suryadev Alloys And Power Private Limited",
+    "Machine Name": "A1a",
+    "Job Card No.": "JC-3507",
+    "Date Of Production": "2025-12-08T18:30:00.000Z",
+    "Name Of Supervisor": "Jayant",
+    "Product Name": "LCM - 75 AR HS",
+    "Quantity Of FG": 10
+  },
+  {
+    "Timestamp": "9/13/2025 14:17:50",
+    "Do Number": "DO-124",
+    "Party Name": "Jharusuda Metals",
+    "Machine Name": "B1",
+    "Job Card No.": "JC-3508",
+    "Date Of Production": "2025-12-08T18:30:00.000Z",
+    "Name Of Supervisor": "Jayant",
+    "Product Name": "LCM - 75 AR HS",
+    "Quantity Of FG": 5
+  },
+  {
+    "Timestamp": "9/13/2025 14:20:36",
+    "Do Number": "DO-125",
+    "Party Name": "Alankar Allyos",
+    "Machine Name": "B1",
+    "Job Card No.": "JC-3509",
+    "Date Of Production": "2025-12-08T18:30:00.000Z",
+    "Name Of Supervisor": "Jayant",
+    "Product Name": "M Fag 90 with 1.5% SSF",
+    "Quantity Of FG": 16
+  }
+]
