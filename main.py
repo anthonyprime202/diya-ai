@@ -43,7 +43,7 @@ def chat(req: QueryRequest):
 
 
 # ✅ New endpoint to run main() from script.py
-@app.post("/update")
+@app.post("/run-script")
 def run_script():
     try:
         result = main()  # call the main function
