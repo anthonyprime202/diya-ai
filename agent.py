@@ -2,9 +2,6 @@ import os
 import json
 import uuid
 import requests
-import chromadb
-from pandas import DataFrame
-import pandas as pd
 from pathlib import Path
 from datetime import datetime
 from typing import TypedDict, Annotated, Sequence, List, Dict
