@@ -9,7 +9,6 @@ from dotenv import load_dotenv
 from langgraph.graph import StateGraph, add_messages
 from langgraph.prebuilt import InjectedState, ToolNode, tools_condition
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-from langchain_ollama import ChatOllama
 from langchain.tools import tool
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.messages import BaseMessage, HumanMessage, SystemMessage, AIMessage
